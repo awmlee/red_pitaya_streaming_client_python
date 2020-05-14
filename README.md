@@ -59,7 +59,7 @@ python QT_pyqtgraph_stream2.1.py
 rp_stream_threaded is a package that has two classes that implement threaded data receiving and unpacking.  In the __main__ section is a sample implementation of its use.  Running the program from the command line, receives the data stream and prints diagnostic messsages such as the data rate, and the packets 'lost' (a parameter included by the streaming server code).  I flagged the section where the data is available('DATA AVAILABLE HERE!!!').   If this code stops running, check that the streaming server hasn't restarted itself.
   
 QT_pyqtgraph_stream2.1.py calls rp_steam_threaded and displays the streaming data in a pyqtgraph.  There are some options for the data display.  The gui was created in QT designer and can be edited. If this code stops running, check that the streaming server hasn't restarted itself.
-```
+
   
 ## To Do:  
   
