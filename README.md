@@ -20,19 +20,20 @@ The rpsa_client.exe was insufficient for data streaming.
 
 ## Supported systems:
 
-In theory, this should work on most operating systems, however it was tested using Python 3.7 using spyder and visual studio code.
+In theory, this should work on most operating systems, however it was tested on Windows 10 using Python 3.7
   
   
 ## Dependencies:
 
 ```
-Need to update
+Need to update 
+pip install ...
 ```  
   
 ## Install:
   
 ```
-Need to update
+copy files and run
 ```
   
 ## run:
