@@ -11,7 +11,7 @@ This repo provides utilities that can:
 2) Receive and unpack the data  
 3) (alternate) Receive, unpack and display the data in a GUI  
 
-As of 5/14/2020, I'm getting >13 MSPS with 14 bit data in two channels when connected to my RP over wifi (it's much faster over ethernet).  This will allow me to decode video streams, or other high data rate applications.
+As of 6/18/2020, I'm getting a maximum of ~40 MB/s data transfer rate using two channels at 14 bit, acquired by direct ethernet connection.  This will allow me to decode video streams, or other high data rate applications.
   
 ## Why:
   
